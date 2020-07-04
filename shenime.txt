@@ -1,0 +1,34 @@
+GJEJ VETEN - pershkrim i shkurter
+
+Ne jemi një ekipë e developerëve të rinj që kemi marur iniciativë për krijimin e një WebFaqeje në të cilën mund të kyqen studentë nga drejtime të ndryshme dhe të ndjekin kurset e tyre të preferuara. Ne mendojmë se kjo është një mënyrë ideale e të mesuarit, saherë të duash dhe kur të duash. Kjo platformë është një risi, dhe pritet të shtrihet edhe në tërë Kosovën.Ajo e cila na karakterizon ne është korrektësia dhe kontinuiteti në mbajtje të mardhënieve me studentët.
+
+Veglat e perdorura:
+Visual Studio Code
+Adobe Photoshop
+Adobe Illustrator 
+WireframePro
+
+Agan Haziri- kryesisht jam marur me:
+ pjesen e navigation bar
+Krijimin  e logos
+, ngjyrave, fontit, 
+responsivitetit te faqes ,
+ faqes se pare(ballines), 
+faqen 'Produkte' - ku kam edituar me Adobe Illustrator imazhet e kurseve te dhena. 
+te faqeja 'Rreth nesh 'kam edituar me  Adobe Photoshop imazhet brenda Laptopit dhe Telefonit.
+WireFramePro- pjesa e paraqitjes se faqes(3 dokumente PDF). 3 faqe
+login/register form validation.
+
+Arian Dushi- kryesisht jam marur me:
+idete:
+responsivitetin
+, ngjyrave, fontit, 
+faqen Rreth nesh
+ne faqen Produkte- OUR TEAM section
+Contact Form VALIDATION.
+
+
+
+
+
+

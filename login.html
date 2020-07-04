@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="1style.css">
+	<title>user login</title>
+</head>
+<body>
+	<div class="align">
+		<div class="card">
+			<div class="head">
+				<div></div>
+				<a id="login" class="selected" href="#login">Login</a>
+				<a id="register" href="#register">Register</a>
+				<div></div>
+			</div>
+			<div class="tabs">
+				<form>
+					<div class="inputs">
+						<div class="input-container">
+							<div class="input">
+								<input class="email-validation login-control-lenght" placeholder="e-mail" type="email">
+								<img src="images/user.svg">
+							</div>
+							<div style="display: none" class="error-validation space-b-1">Emaili duhet te jete valid</div>
+						</div>
+						<div class="input-container">
+							<div class="input">
+								<input class="password-validation " placeholder="Password" type="password">
+								<img src="images/pass.svg">
+							</div>
+							<div style="display: none" class="error-validation space-b-1">Fjalekalimi duhet te jete se paku 6 karaktere</div>
+						</div>						
+					</div>
+					<div class="w-100">
+						<button type="button" class="float-right login-button" disabled>Login</button>
+					</div>
+				</form>
+				<form>
+					<div class="inputs">
+						<div class="input-container">
+							<div class="input">
+								<input placeholder="Fullname" type="text">
+								<img src="images/user.svg">
+							</div>
+						</div>
+						<div class="input-container">
+							<div class="input">
+								<input class="email-validation register-control-lenght" placeholder="Email" type="email">
+								<img src="images/mail.svg">
+							</div>
+							<div style="display: none" class="error-validation space-b-1">Emaili duhet te jete valid</div>
+						</div>
+						<div class="input-container">
+							<div class="input">
+								<input class="password-validation" placeholder="Password" type="password">
+								<img src="images/pass.svg">
+							</div>
+							<div style="display: none" class="error-validation space-b-1">Fjalekalimi duhet te jete se paku 6 karaktere</div>
+						</div>
+					</div>
+					<div class="w-100">
+					<button type="button" class="float-right register-button" disabled>Register</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<script src="jquery-3.3.1.min.js"></script>
+	<script src="index.js"></script>
+</body>
+</html>
